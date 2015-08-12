@@ -1,3 +1,7 @@
+- Installation
+
+    > npm install
+
 - Start mock server
     
     > npm run mock-server
